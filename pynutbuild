@@ -1,0 +1,3 @@
+#!/bin/sh
+python pynut.py css/app_index.css html/app_index.html
+python static_build.py categories.json items.json dist/index.html

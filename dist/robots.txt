@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.onirom.fr/sitemap.xml
