@@ -389,6 +389,22 @@
             "tags": ["Particles", "Processing"]
         },
         {
+            "thumb_url": "assets/thumb/patterns.png",
+            "thumb_alt": "Patterns",
+            "link": "https://www.openprocessing.org/sketch/576818",
+            "thumb_alt": "Kaleidoscopic Patterns",
+            "title": "<br>Kaleidoscopic Patterns",
+            "tags": ["Kaleidoscopic", "Patterns", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/patterns2.png",
+            "thumb_alt": "Patterns",
+            "link": "https://www.openprocessing.org/sketch/576965",
+            "thumb_alt": "Kaleidoscopic Patterns (variation)",
+            "title": "<br>Kaleidoscopic Patterns (variation)",
+            "tags": ["Kaleidoscopic", "Patterns", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/tunnel_terrain.png",
             "thumb_alt": "3D Terrain Tunnel",
             "link": "https://www.openprocessing.org/sketch/561482",
