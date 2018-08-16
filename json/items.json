@@ -4,14 +4,15 @@
             "thumb_url": "assets/thumb/octo_monitor.png",
             "thumb_alt": "OctoPrint Monitoring System",
             "link": "https://github.com/grz0zrg/fb_monitor",
-            "thumb_alt": "3D Printer Monitoring System",
+            "link_infos": "{link}",
             "title": "3D Printer Monitoring System",
-            "tags": ["C", "Embedded systems", "REST", "JSON", "OctoPrint", "Linux Framebuffer"]
+            "tags": ["C", "Embedded system", "REST", "JSON", "OctoPrint", "Linux Framebuffer"]
         },
         {
             "thumb_url": "assets/thumb/fsynth.png",
             "thumb_alt": "Fragment",
             "link": "https://www.fsynth.com",
+            "link_infos": "{link}",
             "title": "Collaborative Audio-Visual Tool",
             "tags": ["Front-End", "Back-End", "DSP", "HTML5", "JavaScript", "WebGL", "WebSockets", "NodeJS", "MIDI", "MongoDB", "Redis", "OT", "UI/UX"]
         },
@@ -19,30 +20,31 @@
             "thumb_url": "assets/thumb/fas.png",
             "thumb_alt": "Fragment Audio Server",
             "link": "https://github.com/grz0zrg/fas",
+            "link_infos": "{link}",
             "title": "Real-Time Synthesis Server",
-            "tags": ["Distributed DSP server", "C/C++", "OSC", "WebSockets", "Real-Time", "Sound design", "Embedded systems"]
+            "tags": ["Distributed DSP server", "C/C++", "OSC", "WebSockets", "Real-Time", "Sound design", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/bmp2sms.png",
             "thumb_alt": "Sega Master System bitmap conversion software",
             "link": "https://github.com/grz0zrg/bmp2sms",
-            "thumb_alt": "Sega Master System bitmap conversion software",
+            "link_infos": "{link}",
             "title": "Bitmap conversion software",
-            "tags": ["Tcl/TK", "Image processing", "Plugins system", "Z80"]
+            "tags": ["Tcl/TK", "Image processing", "Z80"]
         },
         {
             "thumb_url": "assets/thumb/csp.png",
             "thumb_alt": "Web Spectral Synthesizer",
-            "link": "#",
-            "thumb_alt": "Web Spectral Synthesizer",
+            "link": "",
+            "link_infos": "No links yet",
             "title": "Web Spectral Synthesizer",
-            "tags": ["Front-End", "HTML5", "Canvas", "WebAudio", "UI/UX", "CSS3", "Digital Signal Processing", "Digital image processing"]
+            "tags": ["Front-End", "HTML5", "Canvas", "WebAudio", "UI/UX", "CSS3", "Digital Signal Processing", "Image processing"]
         },
         {
             "thumb_url": "assets/thumb/pynut.png",
             "thumb_alt": "Minimalist Build System",
             "link": "https://github.com/grz0zrg/pynut",
-            "thumb_alt": "Minimalist Build System",
+            "link_infos": "{link}",
             "title": "Minimalist Build System",
             "tags": ["Python", "Anubis language"]
         },
@@ -50,7 +52,7 @@
             "thumb_url": "assets/thumb/website.png",
             "thumb_alt": "Minimalist Static Website Builder",
             "link": "https://github.com/grz0zrg/static",
-            "thumb_alt": "Minimalist Static Website Builder",
+            "link_infos": "{link}",
             "title": "Minimalist Static Website Tool",
             "tags": ["Python", "JSON"]
         },
@@ -58,7 +60,7 @@
             "thumb_url": "assets/thumb/load_balancing.png",
             "thumb_alt": "Load balancing visualizer",
             "link": "https://www.fsynth.com/lab/simulation.htm",
-            "thumb_alt": "Load balancing visualizer",
+            "link_infos": "{link}",
             "title": "Load balancing simulation",
             "tags": ["Front-End", "HTML5", "CSS3", "JavaScript"]
         },
@@ -66,7 +68,7 @@
             "thumb_url": "assets/thumb/envs.png",
             "thumb_alt": "Window function visualizer",
             "link": "https://www.fsynth.com/lab/envs.html",
-            "thumb_alt": "Window function visualizer",
+            "link_infos": "{link}",
             "title": "Window function visualizer",
             "tags": ["Front-End", "HTML5", "Canvas", "JavaScript"]
         },
@@ -74,31 +76,32 @@
             "thumb_url": "assets/thumb/fpaint.png",
             "thumb_alt": "GP2X drawing app.",
             "link": "http://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,4,2582",
-            "thumb_alt": "GP2X drawing app.",
+            "link_infos": "{link}",
             "title": "GP2X drawing app.",
-            "tags": ["C/C++", "Embedded systems", "Digital image processing", "SDL", "Touchscreen"]
+            "tags": ["C/C++", "Embedded system", "Digital image processing", "SDL", "Touchscreen"]
         },
         {
             "thumb_url": "assets/thumb/stepseq2x.png",
             "thumb_alt": "GP2X step sequencer",
             "link": "http://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,6,2829",
-            "thumb_alt": "GP2X step sequencer",
+            "link_infos": "{link}",
             "title": "GP2X step sequencer",
-            "tags": ["C/C++", "Embedded systems", "Digital Signal Processing", "SDL", "Touchscreen"]
+            "tags": ["C/C++", "Embedded system", "Digital Signal Processing", "SDL", "Touchscreen"]
         },
         {
             "thumb_url": "assets/thumb/gpchip8x.png",
             "thumb_alt": "GP2X Chip-8 Emulator",
-            "link": "http://garzul.tonsite.biz/gpchip8x/gpchip0.7.zip",
-            "thumb_alt": "GP2X Chip-8 Emulator",
+            "link": "https://www.onirom.fr/get/gpchip8x/gpchip0.7.zip",
+            "link_infos": ".ZIP (1.2MB) - Windows - With SRC",
+            "icon": "fas fa-download",
             "title": "GP2X Chip-8 Emulator",
-            "tags": ["C/C++", "Embedded systems", "Hardware Emulation", "SDL"]
+            "tags": ["C/C++", "Embedded system", "Hardware Emulation", "SDL"]
         },
         {
             "thumb_url": "assets/thumb/widget.png",
-            "thumb_alt": "Chip-8 Emulator Opera Widget",
-            "link": "http://garzul.tonsite.biz/dl/JsChip8x.zip",
-            "thumb_alt": "Chip-8 Emulator Opera Widget",
+            "thumb_alt": "Chip-8 Emulator Opera 9 Widget",
+            "link": "https://www.onirom.fr/get/jsChip8x/JsChip8x.zip",
+            "link_infos": ".ZIP (53KB) - Opera 9+ Widget",
             "title": "Opera Chip-8 Emulator Widget",
             "tags": ["JavaScript", "Opera Widget", "Hardware Emulation", "Canvas"]
         },
@@ -106,31 +109,15 @@
             "thumb_url": "assets/thumb/atom.png",
             "thumb_alt": "Atom packages for the Anubis functional programming language",
             "link": "https://github.com/grz0zrg?utf8=%E2%9C%93&tab=repositories&q=anubis+atom&type=&language=",
-            "thumb_alt": "Atom packages for the Anubis language",
+            "link_infos": "{link}",
             "title": "Anubis language for Atom",
             "tags": ["CoffeeScript", "Atom", "Anubis language"]
         },
         {
-            "thumb_url": "assets/thumb/jpeg.png",
-            "thumb_alt": "JPEG compressor/decompressor",
-            "link": "http://garzul.tonsite.biz/processing/jpeg/index.html",
-            "thumb_alt": "JPEG compressor/decompressor",
-            "title": "JPEG algorithm",
-            "tags": ["Processing", "Java"]
-        },
-        {
-            "thumb_url": "assets/thumb/image_processing.png",
-            "thumb_alt": "Image processing algorithms",
-            "link": "http://garzul.tonsite.biz/processing/image_processing/index.html",
-            "thumb_alt": "Image processing algorithms",
-            "title": "Image processing algorithms",
-            "tags": ["Processing", "Java"]
-        },
-        {
             "thumb_url": "assets/thumb/pd.png",
             "thumb_alt": "Plane deformation tool",
-            "link": "http://garzul.tonsite.biz/AS3/pd/",
-            "thumb_alt": "Plane deformation tool",
+            "link": "https://www.onirom.fr/pd/index.html",
+            "link_infos": "{link}",
             "title": "Plane deformation tool",
             "tags": ["ActionScript 3"]
         }
@@ -140,23 +127,23 @@
             "thumb_url": "assets/thumb/fbg.png",
             "thumb_alt": "C renderer agnostic graphics library with parallelism support",
             "link": "https://github.com/grz0zrg/fbg",
-            "thumb_alt": "C renderer agnostic graphics library with parallelism support",
+            "link_infos": "{link}",
             "title": "Render agnostic graphics library with parallelism support",
-            "tags": ["C", "2D Graphics", "Parallelism", "Image processing", "Embedded systems"]
+            "tags": ["C", "2D Graphics", "Parallelism", "Image processing", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/kanban.png",
             "thumb_alt": "jQuery Kanban plugin",
             "link": "https://www.fsynth.com/lab/kanban/",
-            "thumb_alt": "jQuery Kanban plugin",
-            "title": "<br>CRUD jQuery Kanban plugin",
+            "link_infos": "{link}",
+            "title": "CRUD jQuery Kanban plugin (latest)",
             "tags": ["Front-End", "Back-End", "CRUD", "jQuery", "JavaScript", "Plugin"]
         },
         {
             "thumb_url": "assets/thumb/splayer.png",
             "thumb_alt": "Web-based audio spectrum player and conversion using additive synthesis",
             "link": "https://github.com/grz0zrg/splayer",
-            "thumb_alt": "Web-based audio spectrum player and conversion using additive synthesis",
+            "link_infos": "{link}",
             "title": "Web-based sonogram resynthesis using additive synthesis",
             "tags": ["Front-End", "JavaScript", "HTML5", "WebAudio", "Canvas"]
         },
@@ -164,31 +151,31 @@
             "thumb_url": "assets/thumb/wui.png",
             "thumb_alt": "Complete collection of lightweight vanilla JavaScript UI widgets",
             "link": "https://github.com/grz0zrg/wui",
-            "thumb_alt": "Complete collection of lightweight vanilla JavaScript UI widgets",
+            "link_infos": "{link}",
             "title": "Complete collection of lightweight vanilla JavaScript UI widgets",
             "tags": ["Front-End", "Vanilla", "JavaScript", "Widgets"]
         },
         {
             "thumb_url": "assets/thumb/spiral.png",
             "thumb_alt": "3D Spiral Gallery",
-            "link": "http://garzul.tonsite.biz/HTML5/spiral/index.html",
-            "thumb_alt": "3D Spiral Gallery",
+            "link": "https://www.onirom.fr/get/HTML5/spiral/index.html",
+            "link_infos": "{link}",
             "title": "3D Spiral Gallery with vanilla JavaScript",
-            "tags": ["Front-End", "Vanilla", "JavaScript", "3D Gallery", "ThreeJS"]
+            "tags": ["Front-End", "JavaScript", "3D Gallery", "ThreeJS"]
         },
         {
             "thumb_url": "assets/thumb/spherical_terrain.png",
             "thumb_alt": "Irrlicht Spherical Terrain Scene Node",
-            "link": "http://irrlicht.sourceforge.net/forum//viewtopic.php?f=9&t=42722",
-            "thumb_alt": "Irrlicht Spherical Terrain Scene Node",
+            "link": "http://irrlicht.sourceforge.net/forum/viewtopic.php?f=9&t=42722",
+            "link_infos": "{link}",
             "title": "Irrlicht Spherical Terrain Scene Node",
             "tags": ["C/C++", "3D", "Irrlicht"]
         },
         {
             "thumb_url": "assets/thumb/glow.png",
             "thumb_alt": "Irrlicht Tron 2.0 Glow graphical effect",
-            "link": "http://garzul.tonsite.biz/irrlicht/glow.zip",
-            "thumb_alt": "Irrlicht Tron 2.0 Glow graphical effect",
+            "link": "https://www.onirom.fr/get/Irrlicht/glow.zip",
+            "link_infos": ".ZIP (2.7MB) - Windows - With SRC",
             "title": "Irrlicht Tron 2.0 Glow graphical effect",
             "tags": ["C/C++", "3D", "Irrlicht"]
         },
@@ -196,15 +183,31 @@
             "thumb_url": "assets/thumb/jsb.png",
             "thumb_alt": "Fast web-based lexical analyzer using finite state automaton",
             "link": "https://github.com/grz0zrg/jsb",
-            "thumb_alt": "Fast web-based lexical analyzer using finite state automaton",
-            "title": "Fast web-based lexical analyzer using finite state automaton",
+            "link_infos": "{link}",
+            "title": "Fast web-based lexical analyzer",
             "tags": ["Vanilla", "JavaScript", "Finite state automaton"]
+        },
+        {
+            "thumb_url": "assets/thumb/jpeg.png",
+            "thumb_alt": "JPEG compression/decompression",
+            "link": "https://www.openprocessing.org/sketch/580526",
+            "link_infos": "{link}",
+            "title": "JPEG algorithm",
+            "tags": ["Processing", "Algorithm"]
+        },
+        {
+            "thumb_url": "assets/thumb/image_processing.png",
+            "thumb_alt": "Image processing algorithms",
+            "link": "https://www.onirom.fr/get/image_processing.pde",
+            "link_infos": "{link}",
+            "title": "Images processing algorithms",
+            "tags": ["Processing", "Algorithm", "Java"]
         },
         {
             "thumb_url": "assets/thumb/mammoth3d.png",
             "thumb_alt": "C/C++ OpenGL 3.3+ demos framework",
             "link": "https://github.com/grz0zrg/Mammoth3D",
-            "thumb_alt": "C/C++ OpenGL 3.3+ demos framework",
+            "link_infos": "{link}",
             "title": "C/C++ OpenGL 3.3+ demos framework",
             "tags": ["C", "OpenGL 3.3+", "Graphics engine", "Framework"]
         },
@@ -212,23 +215,23 @@
             "thumb_url": "assets/thumb/m3d.png",
             "thumb_alt": "C OpenGL ES 1.1 lightweight library",
             "link": "https://github.com/grz0zrg/M3D",
-            "thumb_alt": "C OpenGL ES 1.1 lightweight library",
+            "link_infos": "{link}",
             "title": "C OpenGL ES 1.1 lightweight library",
-            "tags": ["C", "OpenGL 1.1", "Graphics engine", "Hash Table", "Embedded systems"]
+            "tags": ["C", "OpenGL 1.1", "Graphics engine", "Hash Table", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/es.png",
             "thumb_alt": "2D Game framework",
             "link": "https://github.com/grz0zrg/ES",
-            "thumb_alt": "2D Game framework",
+            "link_infos": "{link}",
             "title": "C++ 2D Accelerated Game framework",
-            "tags": ["C++", "OpenGL 2", "2D Game engine", "Embedded systems"]
+            "tags": ["C++", "OpenGL 2", "2D Game engine", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/deflate.png",
             "thumb_alt": "Construct 2 deflate plugin",
             "link": "https://www.scirra.com/forum/viewtopic.php?f=153&t=75040&sid=a6d4f87ca01df263e1a012062e1680db",
-            "thumb_alt": "Construct 2 deflate plugin",
+            "link_infos": "{link}",
             "title": "<br>Construct 2 deflate plugin",
             "tags": ["Construct 2", "JavaScript"]
         }
@@ -237,16 +240,16 @@
         {
             "thumb_url": "assets/thumb/jump.png",
             "thumb_alt": "2D Single button platformer",
-            "link": "#",
-            "thumb_alt": "2D Single button platformer",
+            "link": "https://www.onirom.fr/get/jump",
+            "link_infos": "Require a server (offline)",
             "title": "2D Web-based Single button platformer",
             "tags": ["2D Platformer", "HTML5", "Construct 2"]
         },
         {
             "thumb_url": "assets/thumb/star_conquest.png",
             "thumb_alt": "2D Shoot 'em up",
-            "link": "http://garzul.tonsite.biz/StarConquest",
-            "thumb_alt": "2D Shoot 'em up",
+            "link": "https://www.onirom.fr/get/StarConquest",
+            "link_infos": "Require a server (offline)",
             "title": "<br>2D Web-based Shoot 'em up",
             "tags": ["2D Shoot 'em up", "HTML5", "Construct 2"]
         },
@@ -254,39 +257,39 @@
             "thumb_url": "assets/thumb/2048.png",
             "thumb_alt": "Addictive Sega Master System puzzle game",
             "link": "https://github.com/grz0zrg/2048-SMS",
-            "thumb_alt": "Addictive Sega Master System puzzle game",
+            "link_infos": "{link}",
             "title": "Addictive Sega Master System puzzle game",
             "tags": ["Z80 Assembly", "2D puzzle game", "Sega Master System"]
         },
         {
             "thumb_url": "assets/thumb/sg3.png",
             "thumb_alt": "Stargate based Shiva 3D FPS demo",
-            "link": "http://garzul.tonsite.biz/SGP_SRC/SGProject_Shiva.7z",
-            "thumb_alt": "Stargate based Shiva 3D FPS demo",
+            "link": "htts://www.onirom.fr/get/SGP/SGProject_Shiva.7z",
+            "link_infos": ".7z (79.8MB) Shiva 3D project",
             "title": "Stargate based Shiva 3D FPS demo",
             "tags": ["Shiva 3D Game engine", "3D FPS"]
         },
         {
             "thumb_url": "assets/thumb/android.png",
             "thumb_alt": "2D Lode Runner style platformer",
-            "link": "#",
-            "thumb_alt": "2D Lode Runner style platformer",
+            "link": "",
+            "link_infos": "Prototype stage",
             "title": "<br>2D Lode Runner style platformer",
             "tags": ["C/C++", "2D Platformer"]
         },
         {
             "thumb_url": "assets/thumb/qbic.png",
             "thumb_alt": "3D Q*Bert remake with the Irrlicht engine",
-            "link": "#",
-            "thumb_alt": "3D Q*Bert remake with the Irrlicht engine",
+            "link": "",
+            "link_infos": "Prototype stage",
             "title": "3D Q*Bert remake with the Irrlicht engine",
             "tags": ["C/C++", "Irrlicht Engine"]
         },
         {
             "thumb_url": "assets/thumb/ode.png",
             "thumb_alt": "Simple physics game using Irrlicht and ODE physics",
-            "link": "#",
-            "thumb_alt": "Simple physics game using Irrlicht and ODE physics",
+            "link": "",
+            "link_infos": "Prototype stage",
             "title": "Simple physics game using Irrlicht and ODE physics",
             "tags": ["C/C++", "Irrlicht Engine", "ODE physics"]
         },
@@ -294,7 +297,7 @@
             "thumb_url": "assets/thumb/jetpac.png",
             "thumb_alt": "Unfinished Sega Master System JetPac remake",
             "link": "http://www.smspower.org/forums/viewtopic.php?t=11726",
-            "thumb_alt": "Unfinished Sega Master System JetPac remake",
+            "link_infos": "{link}",
             "title": "Unfinished Sega Master System JetPac remake",
             "tags": ["Z80 Assembly", "2D Game", "Sega Master System"]
         }
@@ -304,7 +307,7 @@
             "thumb_url": "assets/thumb/markov.png",
             "thumb_alt": "Markov chain experiment",
             "link": "https://www.fsynth.com/lab/markov/",
-            "thumb_alt": "Markov chain experiment",
+            "link_infos": "{link}",
             "title": "<br>Markov chain experiment",
             "tags": ["JavaScript", "HTML5"]
         },
@@ -312,7 +315,7 @@
             "thumb_url": "assets/thumb/lsystem.png",
             "thumb_alt": "L-System",
             "link": "https://github.com/grz0zrg/LSystem",
-            "thumb_alt": "L-System",
+            "link_infos": "{link}",
             "title": "<br>L-System",
             "tags": ["Anubis language"]
         },
@@ -320,15 +323,15 @@
             "thumb_url": "assets/thumb/fish_eye.png",
             "thumb_alt": "Context Free Art",
             "link": "https://www.contextfreeart.org/gallery2/#design/3205",
-            "thumb_alt": "Context Free Art",
+            "link_infos": "{link}",
             "title": "<br>Context Free Art language",
             "tags": ["Context Free Art"]
         },
         {
             "thumb_url": "assets/thumb/l.png",
             "thumb_alt": "Context Free Art",
-            "link": "http://www.contextfreeart.org/mediawiki/index.php/Community_of_Variation",
-            "thumb_alt": "Context Free Art",
+            "link": "https://www.contextfreeart.org/book.html",
+            "link_infos": "{link}",
             "title": "Published in the 'Community of Variation' presentation e-book",
             "tags": ["Context Free Art"]
         },
@@ -336,7 +339,7 @@
             "thumb_url": "assets/thumb/bacteria.png",
             "thumb_alt": "Context Free Art",
             "link": "https://www.contextfreeart.org/gallery2/#design/1416",
-            "thumb_alt": "Context Free Art",
+            "link_infos": "{link}",
             "title": "<br>Context Free Art language",
             "tags": ["Context Free Art"]
         },
@@ -344,7 +347,7 @@
             "thumb_url": "assets/thumb/fractal.png",
             "thumb_alt": "Context Free Art",
             "link": "https://www.contextfreeart.org/gallery2/#design/286",
-            "thumb_alt": "Context Free Art",
+            "link_infos": "{link}",
             "title": "<br>Context Free Art language",
             "tags": ["Context Free Art"]
         },
@@ -352,198 +355,262 @@
             "thumb_url": "assets/thumb/sphere.png",
             "thumb_alt": "Sphere disintegration",
             "link": "https://www.openprocessing.org/sketch/570733",
-            "thumb_alt": "Sphere disintegration",
+            "link_infos": "{link}",
             "title": "<br>Sphere disintegration",
             "tags": ["pseudo 3D", "Particles", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/patterns3.png",
+            "thumb_alt": "Patterns 3",
+            "link": "https://www.openprocessing.org/sketch/579955",
+            "link_infos": "{link}",
+            "title": "<br>Patterns 3",
+            "tags": ["Particles", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/patterns4.png",
+            "thumb_alt": "Patterns 4",
+            "link": "https://www.openprocessing.org/sketch/579597",
+            "link_infos": "{link}",
+            "title": "<br>Patterns 4",
+            "tags": ["Particles", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/feedback.png",
+            "thumb_alt": "Procedural texture",
+            "link": "https://www.openprocessing.org/sketch/579183",
+            "link_infos": "{link}",
+            "title": "<br>Procedural texture",
+            "tags": ["Procedural", "Texture", "Noise", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/meshuggah.png",
             "thumb_alt": "3D scene as particles",
             "link": "https://www.openprocessing.org/sketch/569939",
-            "thumb_alt": "3D scene as particles",
-            "title": "<br>3D scene as particles",
+            "link_infos": "{link}",
+            "title": "<br>3D scene (particles)",
             "tags": ["3D", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/cube.png",
             "thumb_alt": "3D scene as particles",
             "link": "https://www.openprocessing.org/sketch/569733",
-            "thumb_alt": "3D scene as particles",
-            "title": "<br>3D scene as particles",
+            "link_infos": "{link}",
+            "title": "<br>3D scene (particles)",
             "tags": ["3D", "Particles", "Processing"]
         },
         {
+            "thumb_url": "assets/thumb/glitch.png",
+            "thumb_alt": "Glitch space",
+            "link": "https://www.openprocessing.org/sketch/579071",
+            "link_infos": "{link}",
+            "title": "<br>Glitch space",
+            "tags": ["Glitch", "Shapes", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/beacon.png",
+            "thumb_alt": "Beacon",
+            "link": "https://www.openprocessing.org/sketch/579557",
+            "link_infos": "{link}",
+            "title": "<br>Beacon",
+            "tags": ["Andres circle", "Feedback", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/andres.png",
+            "link": "https://www.openprocessing.org/sketch/579571",
+            "link_infos": "{link}",
+            "thumb_alt": "Andres circle",
+            "title": "<br>Andres circle",
+            "tags": ["Andres circle", "Feedback", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/triangle.png",
-            "thumb_alt": "Pseudo 3D",
             "link": "https://www.openprocessing.org/sketch/568729",
-            "thumb_alt": "Pseudo 3D",
-            "title": "<br>Pseudo 3D",
+            "link_infos": "{link}",
+            "thumb_alt": "3D scene (particles)",
+            "title": "<br>3D scene (particles)",
             "tags": ["Pseudo 3D", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/particles.png",
-            "thumb_alt": "Particles",
             "link": "https://www.openprocessing.org/sketch/561515",
+            "link_infos": "{link}",
             "thumb_alt": "Particles",
             "title": "<br>Particles",
             "tags": ["Particles", "Processing"]
         },
         {
+            "thumb_url": "assets/thumb/crystal.png",
+            "link": "https://www.openprocessing.org/sketch/577480",
+            "link_infos": "{link}",
+            "thumb_alt": "Patterns + Crystal ball",
+            "title": "<br>Patterns + Crystal ball",
+            "tags": ["Particles", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/patterns.png",
-            "thumb_alt": "Patterns",
             "link": "https://www.openprocessing.org/sketch/576818",
+            "link_infos": "{link}",
             "thumb_alt": "Kaleidoscopic Patterns",
             "title": "<br>Kaleidoscopic Patterns",
             "tags": ["Kaleidoscopic", "Patterns", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/patterns2.png",
-            "thumb_alt": "Patterns",
             "link": "https://www.openprocessing.org/sketch/576965",
-            "thumb_alt": "Kaleidoscopic Patterns (variation)",
-            "title": "<br>Kaleidoscopic Patterns (variation)",
+            "link_infos": "{link}",
+            "thumb_alt": "Patterns (variation)",
+            "title": "<br>Patterns (variation)",
             "tags": ["Kaleidoscopic", "Patterns", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/tunnel_terrain.png",
-            "thumb_alt": "3D Terrain Tunnel",
             "link": "https://www.openprocessing.org/sketch/561482",
+            "link_infos": "{link}",
             "thumb_alt": "3D Terrain Tunnel",
-            "title": "<br>3D Terrain Tunnel as particles",
+            "title": "<br>3D Terrain Tunnel (particles)",
             "tags": ["3D", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/earth_billboard.png",
-            "thumb_alt": "Earth Billboard",
             "link": "https://www.openprocessing.org/sketch/561193",
+            "link_infos": "{link}",
             "thumb_alt": "Earth Billboards",
             "title": "<br>Earth Billboards",
             "tags": ["3D", "Sphere", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/waves.png",
-            "thumb_alt": "Waves",
             "link": "https://www.openprocessing.org/sketch/561219",
+            "link_infos": "{link}",
             "thumb_alt": "Waves",
             "title": "<br>Waves",
             "tags": ["Waves", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/droplet.png",
-            "thumb_alt": "Droplet",
             "link": "https://www.openprocessing.org/sketch/561048",
+            "link_infos": "{link}",
             "thumb_alt": "Droplet",
             "title": "<br>Droplet / Metaball",
             "tags": ["Pseudo 3D", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/earth.png",
-            "thumb_alt": "Blue planet",
             "link": "https://www.openprocessing.org/sketch/561045",
+            "link_infos": "{link}",
             "thumb_alt": "Blue planet",
             "title": "<br>Blue planet",
             "tags": ["Pseudo 3D", "Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/sauron.png",
-            "thumb_alt": "Sauron",
             "link": "https://www.openprocessing.org/sketch/560834",
+            "link_infos": "{link}",
             "thumb_alt": "Sauron",
             "title": "<br>Sauron",
             "tags": ["Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/tunnel.png",
-            "thumb_alt": "Pseudo 3D fur tunnel",
             "link": "https://www.openprocessing.org/sketch/560781",
+            "link_infos": "{link}",
             "thumb_alt": "Pseudo 3D fur tunnel",
             "title": "<br>Pseudo 3D fur tunnel",
             "tags": ["Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/waving.png",
-            "thumb_alt": "Waving flags of the world",
             "link": "https://www.openprocessing.org/sketch/560394",
+            "link_infos": "{link}",
             "thumb_alt": "Waving flags of the world",
             "title": "<br>Waving flags of the world",
             "tags": ["Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/chessboard.png",
-            "thumb_alt": "8-bit old-school color-cycling chessboard",
             "link": "https://www.openprocessing.org/sketch/555398",
+            "link_infos": "{link}",
             "thumb_alt": "8-bit old-school color-cycling chessboard",
             "title": "<br>8-bit color-cycling chessboard",
             "tags": ["Pseudo 3D", "Color-cycling", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/voxel.png",
-            "thumb_alt": "8-bit dots / Voxel terrain",
             "link": "https://www.openprocessing.org/sketch/555375",
+            "link_infos": "{link}",
             "thumb_alt": "8-bit dots / Voxel terrain",
             "title": "<br>8-bit dots / Voxel terrain",
             "tags": ["Voxel", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/rotozoom.png",
-            "thumb_alt": "8-bit rotozoom",
             "link": "https://www.openprocessing.org/sketch/555366",
+            "link_infos": "{link}",
             "thumb_alt": "8-bit rotozoom",
             "title": "<br>8-bit rotozoom",
             "tags": ["rotozoom", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/threejs.png",
-            "thumb_alt": "ThreeJS JavaScript particles world",
-            "link": "http://garzul.tonsite.biz/HTML5/renderingtest/index.html",
+            "link": "https://www.onirom.fr/HTML5/renderingtest/index.html",
+            "link_infos": "{link}",
             "thumb_alt": "ThreeJS JavaScript particles world",
             "title": "<br>Particles world",
             "tags": ["JavaScript", "ThreeJS"]
         },
         {
             "thumb_url": "assets/thumb/motifs.png",
-            "thumb_alt": "Pseudo 3D audio visualizer / VJing",
-            "link": "http://garzul.tonsite.biz/Motifs/",
+            "link": "https://www.onirom.fr/Motifs/index.html",
+            "link_infos": "{link}",
             "thumb_alt": "Pseudo 3D audio visualizer / VJing",
             "title": "Pseudo 3D audio visualizer / VJing",
             "tags": ["JavaScript", "VJing", "Particles", "Audio Visualizer"]
         },
         {
+            "thumb_url": "assets/thumb/1d_cellular_automaton.png",
+            "link": "https://www.openprocessing.org/sketch/580564",
+            "link_infos": "{link}",
+            "thumb_alt": "1D Cellular automaton",
+            "title": "<br>1D Cellular automaton",
+            "tags": ["Cellular automaton", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/puresprite3d.png",
-            "thumb_alt": "PureBasic demo",
-            "link": "#",
+            "link": "",
+            "link_infos": "Available upon request",
             "thumb_alt": "PureBasic demo",
             "title": "<br>PureBasic demo",
             "tags": ["PureBasic", "Demo"]
         },
         {
             "thumb_url": "assets/thumb/tun.png",
-            "thumb_alt": "PureBasic 2D effect",
-            "link": "#",
+            "link": "",
+            "link_infos": "Source-code was lost",
             "thumb_alt": "PureBasic 2D effect",
             "title": "<br>PureBasic 2D effect",
             "tags": ["PureBasic", "Effect"]
         },
         {
             "thumb_url": "assets/thumb/eff.png",
-            "thumb_alt": "3D graphical effect",
-            "link": "#",
+            "link": "",
+            "link_infos": "Source-code was lost",
             "thumb_alt": "3D graphical effect",
             "title": "<br>3D graphical effect",
             "tags": ["C++", "OpenGL", "3D", "Effect"]
         },
         {
             "thumb_url": "assets/thumb/eff2.png",
-            "thumb_alt": "3D graphical effect",
-            "link": "#",
+            "link": "",
+            "link_infos": "Source-code was lost",
             "thumb_alt": "3D graphical effect",
             "title": "<br>3D graphical effect",
             "tags": ["C++", "OpenGL", "3D", "Effect"]
         },
         {
             "thumb_url": "assets/thumb/pov.png",
-            "thumb_alt": "POV-Ray",
-            "link": "http://garzul.tonsite.biz/povray/g_is_back.pov",
+            "link": "https://www.onirom.fr/get/povray/g_is_back.pov",
+            "link_infos": "{link}",
             "thumb_alt": "POV-Ray",
             "title": "<br>POV-Ray",
             "tags": ["POV-Ray"]
@@ -552,43 +619,43 @@
     "contributions": [
         {
             "thumb_url": "assets/thumb/meritous.png",
-            "thumb_alt": "Meritous GP2X port",
             "link": "http://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,26,2777",
+            "link_infos": "{link}",
             "thumb_alt": "Meritous GP2X port",
             "title": "Meritous GP2X port",
-            "tags": ["GP2X", "Port", "Embedded systems"]
+            "tags": ["GP2X", "Port", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/yeti3d.png",
-            "thumb_alt": "Yeti3D GP2X port",
             "link": "http://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,38,2862",
+            "link_infos": "{link}",
             "thumb_alt": "Yeti3D GP2X port",
             "title": "Yeti3D GP2X port",
-            "tags": ["GP2X", "Port", "Embedded systems"]
+            "tags": ["GP2X", "Port", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/pbsynth.png",
-            "thumb_alt": "pbSynth GP2X port",
             "link": "http://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,6,2867",
+            "link_infos": "{link}",
             "thumb_alt": "pbSynth GP2X port",
             "title": "pbSynth GP2X port",
-            "tags": ["GP2X", "Port", "Embedded systems"]
+            "tags": ["GP2X", "Port", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/milky.png",
-            "thumb_alt": "Milkytracker GP2X port",
-            "link": "http://garzul.tonsite.biz/milkytracker/milkytracker.zip",
+            "link": "https://www.onirom.fr/get/gp2x/milkytracker.zip",
+            "link_infos": ".ZIP (1.8MB) - gp2x - With SRC",
             "thumb_alt": "Milkytracker GP2X port",
             "title": "Milkytracker GP2X port",
-            "tags": ["GP2X", "Port", "Embedded systems"]
+            "tags": ["GP2X", "Port", "Embedded system"]
         },
         {
             "thumb_url": "assets/thumb/povray2x.png",
-            "thumb_alt": "POV-Ray GP2X port",
-            "link": "http://garzul.tonsite.biz/PovRay_GP2X/PovRay.zip",
+            "link": "https://www.onirom.fr/get/gp2x/PovRay.zip",
+            "link_infos": ".ZIP (2.4MB) - gp2x - With SRC",
             "thumb_alt": "POV-Ray GP2X port",
             "title": "POV-Ray GP2X port",
-            "tags": ["GP2X", "Port", "Embedded systems"]
+            "tags": ["GP2X", "Port", "Embedded system"]
         }
     ]
 }
