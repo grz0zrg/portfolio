@@ -116,7 +116,7 @@
         {
             "thumb_url": "assets/thumb/pd.png",
             "thumb_alt": "Plane deformation tool",
-            "link": "https://www.onirom.fr/pd/index.html",
+            "link": "https://www.onirom.fr/get/pd/index.html",
             "link_infos": "{link}",
             "title": "Plane deformation tool",
             "tags": ["ActionScript 3"]
@@ -198,7 +198,7 @@
         {
             "thumb_url": "assets/thumb/image_processing.png",
             "thumb_alt": "Image processing algorithms",
-            "link": "https://www.onirom.fr/get/image_processing.pde",
+            "link": "https://www.onirom.fr/get/processing/image_processing.pde",
             "link_infos": "{link}",
             "title": "Images processing algorithms",
             "tags": ["Processing", "Algorithm", "Java"]
@@ -240,7 +240,7 @@
         {
             "thumb_url": "assets/thumb/jump.png",
             "thumb_alt": "2D Single button platformer",
-            "link": "https://www.onirom.fr/get/jump",
+            "link": "https://www.onirom.fr/get/Jump/index.html",
             "link_infos": "Require a server (offline)",
             "title": "2D Web-based Single button platformer",
             "tags": ["2D Platformer", "HTML5", "Construct 2"]
@@ -248,7 +248,7 @@
         {
             "thumb_url": "assets/thumb/star_conquest.png",
             "thumb_alt": "2D Shoot 'em up",
-            "link": "https://www.onirom.fr/get/StarConquest",
+            "link": "https://www.onirom.fr/get/StarConquest/index.html",
             "link_infos": "Require a server (offline)",
             "title": "<br>2D Web-based Shoot 'em up",
             "tags": ["2D Shoot 'em up", "HTML5", "Construct 2"]
@@ -553,7 +553,7 @@
         },
         {
             "thumb_url": "assets/thumb/threejs.png",
-            "link": "https://www.onirom.fr/HTML5/renderingtest/index.html",
+            "link": "https://www.onirom.fr/get/HTML5/renderingtest/index.html",
             "link_infos": "{link}",
             "thumb_alt": "ThreeJS JavaScript particles world",
             "title": "<br>Particles world",
@@ -561,7 +561,7 @@
         },
         {
             "thumb_url": "assets/thumb/motifs.png",
-            "link": "https://www.onirom.fr/Motifs/index.html",
+            "link": "https://www.onirom.fr/get/Motifs/index.html",
             "link_infos": "{link}",
             "thumb_alt": "Pseudo 3D audio visualizer / VJing",
             "title": "Pseudo 3D audio visualizer / VJing",

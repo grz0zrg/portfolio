@@ -57,12 +57,11 @@ footer {
     border-bottom-width: 0px;
     border-left-width: 0px;
     width: 100%;
-    transition: transform 400ms, opacity 200ms;
+    transition: transform 400ms;
     position: absolute;
     top: 0px;
     left: 0px;
     height: auto;
-    opacity: 1;
     background: #fff;
 }
 
@@ -76,15 +75,13 @@ footer {
     max-height: 100%;
     top: 0px;
     left: 0px;
-    transition: opacity 200ms, max-height 800ms, max-width 800ms;
+    transition: max-height 800ms, max-width 800ms;
     margin-bottom: 0;
     font-weight: 400;
     overflow: hidden;
     position: relative;
     height: 154px;
     border: none;
-    padding: 0;
-    opacity: 1;
     background: transparent;
     text-align: center;
     box-shadow: 0px 4px 2px #eeeeee;
@@ -106,8 +103,6 @@ footer {
     text-overflow: ellipsis;
     display: block;
     word-wrap: break-word;
-    transition: opacity .1s ease-in;
-    opacity: 1;
 }
 
 .item-tags {
