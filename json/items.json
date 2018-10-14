@@ -467,8 +467,8 @@
             "thumb_url": "assets/thumb/fire.png",
             "link": "https://www.openprocessing.org/sketch/591266",
             "link_infos": "{link}",
-            "thumb_alt": "Oldschoold fire effect",
-            "title": "<br>Oldschoold fire effect",
+            "thumb_alt": "Oldschool fire effect",
+            "title": "<br>Oldschool fire effect",
             "tags": ["Oldschool", "Fire", "Perlin noise", "Processing"]
         },
         {
@@ -696,6 +696,24 @@
             "thumb_alt": "POV-Ray GP2X port",
             "title": "POV-Ray GP2X port",
             "tags": ["GP2X", "Port", "Embedded system"]
+        }
+    ],
+    "3d printing": [
+        {
+            "thumb_url": "assets/thumb/clearfogpro.png",
+            "link": "https://pinshape.com/items/46649-3d-printed-clearfog-pro-enclosure",
+            "link_infos": "{link}",
+            "thumb_alt": "ClearFog Pro enclosure",
+            "title": "ClearFog Pro enclosure",
+            "tags": ["ClearFog pro", "Enclosure", "Professional", "FreeCAD"]
+        },
+        {
+            "thumb_url": "assets/thumb/nanopi_matrix.png",
+            "link": "https://pinshape.com/items/46665-3d-printed-nano-pi-neo-neo2-28-tft-enclosure",
+            "link_infos": "{link}",
+            "thumb_alt": "Nano PI NEO / NEO2 + 2'8 TFT enclosure ",
+            "title": "Nano PI NEO / NEO2 + 2'8 TFT enclosure ",
+            "tags": ["Nano PI NEO", "Nano PI NEO 2", "2'8 Matrix TFT", "Enclosure", "FreeCAD"]
         }
     ]
 }
