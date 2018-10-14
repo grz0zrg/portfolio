@@ -238,6 +238,14 @@
     ],
     "games": [
         {
+            "thumb_url": "assets/thumb/ktron.png",
+            "thumb_alt": "3D arcade game on a cube",
+            "link": "https://play.google.com/store/apps/details?id=com.onirom.ktron",
+            "link_infos": "Available on Android!",
+            "title": "3D arcade game on a cube",
+            "tags": ["Android", "Phonegap", "HTML5", "Three.js", "Arcade"]
+        },
+        {
             "thumb_url": "assets/thumb/jump.png",
             "thumb_alt": "2D Single button platformer",
             "link": "https://www.onirom.fr/get/Jump/index.html",
@@ -352,6 +360,14 @@
             "tags": ["Context Free Art"]
         },
         {
+            "thumb_url": "assets/thumb/raycaster.png",
+            "thumb_alt": "2D Volume Raycaster",
+            "link": "https://www.openprocessing.org/sketch/606206",
+            "link_infos": "{link}",
+            "title": "<br>2D Volume Raycaster",
+            "tags": ["raycasting", "2D", "3D", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/sphere.png",
             "thumb_alt": "Sphere disintegration",
             "link": "https://www.openprocessing.org/sketch/570733",
@@ -365,14 +381,6 @@
             "link": "https://www.openprocessing.org/sketch/579955",
             "link_infos": "{link}",
             "title": "<br>Patterns 3",
-            "tags": ["Particles", "Processing"]
-        },
-        {
-            "thumb_url": "assets/thumb/patterns4.png",
-            "thumb_alt": "Patterns 4",
-            "link": "https://www.openprocessing.org/sketch/579597",
-            "link_infos": "{link}",
-            "title": "<br>Patterns 4",
             "tags": ["Particles", "Processing"]
         },
         {
@@ -390,6 +398,14 @@
             "link_infos": "{link}",
             "title": "<br>3D scene (particles)",
             "tags": ["3D", "Particles", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/patterns4.png",
+            "thumb_alt": "Patterns 4",
+            "link": "https://www.openprocessing.org/sketch/579597",
+            "link_infos": "{link}",
+            "title": "<br>Patterns 4",
+            "tags": ["Particles", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/cube.png",
@@ -448,6 +464,22 @@
             "tags": ["Particles", "Processing"]
         },
         {
+            "thumb_url": "assets/thumb/fire.png",
+            "link": "https://www.openprocessing.org/sketch/591266",
+            "link_infos": "{link}",
+            "thumb_alt": "Oldschoold fire effect",
+            "title": "<br>Oldschoold fire effect",
+            "tags": ["Oldschool", "Fire", "Perlin noise", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/smoking.png",
+            "link": "https://www.openprocessing.org/sketch/591286",
+            "link_infos": "{link}",
+            "thumb_alt": "Smoke effect",
+            "title": "<br>Smoke effect",
+            "tags": ["Oldschool", "Smoke", "Perlin noise", "Processing"]
+        },
+        {
             "thumb_url": "assets/thumb/patterns.png",
             "link": "https://www.openprocessing.org/sketch/576818",
             "link_infos": "{link}",
@@ -470,6 +502,14 @@
             "thumb_alt": "3D Terrain Tunnel",
             "title": "<br>3D Terrain Tunnel (particles)",
             "tags": ["3D", "Particles", "Processing"]
+        },
+        {
+            "thumb_url": "assets/thumb/patchwork.png",
+            "link": "https://www.openprocessing.org/sketch/597773",
+            "link_infos": "{link}",
+            "thumb_alt": "Patchwork",
+            "title": "<br>Patchwork",
+            "tags": ["Patterns", "Processing"]
         },
         {
             "thumb_url": "assets/thumb/earth_billboard.png",
